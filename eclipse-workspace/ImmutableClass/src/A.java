@@ -14,6 +14,6 @@ public class A {
 		System.out.println(a.y);//output will be 17
 		
 		
-	}
+	}   //
 
 }
